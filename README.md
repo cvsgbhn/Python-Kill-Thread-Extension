@@ -41,8 +41,8 @@ sudo python3 setup.py install
 
 On Windows, use:
 ```
-python setup.py build
-python setup.py install
+py -3 setup.py build
+py -3 setup.py install
 ```
 
 ### Test Your Installation

@@ -1,5 +1,5 @@
 #include <Python.h>
-#include<windows.h>
+#include <windows.h>
 
 static PyObject* threader_killThread(PyObject*, PyObject*);
 static PyObject*
